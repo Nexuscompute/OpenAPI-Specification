@@ -1,43 +1,5 @@
-## Codegen
-> code-gen vocabulary special interest (working) group
+# OpenAPI Special Interest Groups (SIGs)
 
-* Slack channel: #sig-codegen
+OpenAPI Special Interest Groups, or "SIGs", are the OpenAPI Initiative's way of focusing work in particular areas. SIGs may start with just a Slack channel to gauge interest. SIGs with enough traction to produce work may have their own GitHub repositories and regular Zoom calls, and ultimately produce work that becomes part of, or a companion to, the OpenAPI Specification.
 
-## Formats
-> Focusing on the Formats Registry efforts
-
-* Slack channel: #sig-formats
-
-## Lifecycle
-> A place to discuss how to represent how APIs change in time in the context of OpenAPI
-
-* Slack channel: #sig-lifecycle
-
-## Overlays
-> The Overlay specification defines a way of creating documents that contain information to be merged with an OpenAPI description at some later point in time, for the purpose of updating the OpenAPI description with additional information.
-
-* Github: https://github.com/OAI/Overlay-Specification
-* Slack channel: #sig-overlays
-
-## Security
-> Workgroup to shape security components of the OpenAPI Spec
-* Slack channel: #sig-security
-
-## SLA (Service Level Agreement)
-> Service level agreements and APIs.
-
-* Github: https://github.com/isa-group/SLA4OAI-TC
-* Slack channel: #sig-sla
-
-## Travel
-> An OpenAPI Initiative workgroup to address industry specific connective/API concerns of the travel industry
-
-* Slack channel: #sig-travel
-
-## Workflows
-> This is a channel dedicated to discussing workflows, automations, and scenarios.
-
-> The OpenAPI Specification provides a way to document individual API calls and how to use them, but it doesn't give insight into the common ways to sequence those operations. While all APIs can benefit from formally describing these workflows, this is particularly important when considering more complex or more secure APIs. 
-> The OpenAPI Workflows Special Interest Group was created to address this common problem. The goal is to construct a formal way to describe these sequences and support documentation of flows, such as a multi-part OAuth flow with JSON signing and refresh token behavior. 
-
-* Slack channel: #sig-workflows
+See the [OAS community repository](https://github.com/OAI/community/blob/main/SPECIAL_INTEREST_GROUPS.md) for a complete list of SIGs, and for more information about forming a SIG.
